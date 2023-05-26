@@ -1,2 +1,1 @@
-# pnpm1
-.
+# pnpm v6 lockfile (normal-repo)
